@@ -11,4 +11,4 @@ A simple, clean to-do list app. It runs in your browser and remembers your tasks
 Just double-click `index.html`, or open it with your browser.
 
 ## Deploy it for free (GitHub Pages)
-See the step-by-step guide the assistant gave you in chat.
+See the step-by-step guide the assistant gave you in chat. 
